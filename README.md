@@ -7,8 +7,8 @@ This is a C++ ray tracing program that renders 3D scenes containing spheres and 
 ## Dependencies
 Ensure the following libraries are installed:
 
-GLM (OpenGL Mathematics Library) – For vector and matrix operations
-FreeImage – For handling image output
+- GLM (OpenGL Mathematics Library) – For vector and matrix operations
+- FreeImage – For handling image output
 
 ## Usage
 Run the program by providing a scene file as an argument
